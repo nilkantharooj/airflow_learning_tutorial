@@ -1,0 +1,7 @@
+/logs
+/dags/__pycache__
+/plugins/__pycache__
+.env
+*.yaml
+.DS_Store
+settings.json
